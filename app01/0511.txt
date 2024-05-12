@@ -1,0 +1,10 @@
+
+eclipse2024
+	java
+	junit
+	DbUnit
+
+docker / redmine		失敗
+
+docker / mariaDB
+
